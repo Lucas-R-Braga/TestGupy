@@ -1,0 +1,16 @@
+Primeiro, ligue um dos interruptores e espere alguns minutos.
+Em seguida, desligue o interruptor e ligue outro interruptor, até completar todos os interruptores.
+Entre na sala.
+
+
+Agora, analisando as possibilidades:
+
+Se a luz estiver acesa, então o primeiro interruptor que você ligou controla aquela lâmpada.
+
+Se a luz estiver apagada e a lâmpada estiver fria, então o segundo interruptor que você ligou controla aquela 
+lâmpada.
+
+Se a lâmpada estiver quente, mas apagada, então o último interruptor controla aquela lâmpada.
+
+Dessa forma, com apenas duas idas até uma das salas das lâmpadas, conseguimos determinar qual dos interruptores 
+controla cada lâmpada.

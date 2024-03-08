@@ -1,0 +1,28 @@
+
+
+    // 3) Descubra a lógica e complete o próximo elemento:
+
+    // a) 1, 3, 5, 7, ___
+    // A letra 'a' aparenta estar seguindo uma ordem crescente de 2 em 2. Seguindo
+    // essa lógica, a sequencia ficará -> a) 1, 3, 5, 7, 9...
+
+    // b) 2, 4, 8, 16, 32, 64, ____
+    // A letra 'b' aparentemente ser uma sequencia de potências de 2. Então
+    // seguindo essa lógica, a sequencia ficará -> b) 2, 4, 8, 16, 32, 64, 128...
+
+    // c) 0, 1, 4, 9, 16, 25, 36, ____
+    // A letra 'c' parece ser uma sequencia de quadrados perfeitos, começando com
+    // 0^2, 1^2, 2^2, e assim por diante. Portanto, o próximo número seria 49 (7^2).
+
+    // d) 4, 16, 36, 64, ____
+    // A letra 'd' parece ser uma sequencia de quadrados de numeros pares, começando
+    // com 2^2, 4^2, 6^2, 8^2 e assim por diante. Portanto, o próximo número seria
+    // 10^2.
+
+    // e) 1, 1, 2, 3, 5, 8, ____
+    // Esta sequência parece ser uma Fibonacci, onde cada número é a soma
+    // dos dois números anteriores. Portanto, o próximo número seria 13.
+
+    // f) 2,10, 12, 16, 17, 18, 19, ____
+    // Esta sequência não segue uma lógica óbvia, portanto não há como determinar uma respota clara.
+
